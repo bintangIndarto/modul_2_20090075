@@ -30,6 +30,6 @@ public class nomer_3 {
                 System.out.println();
             }
         }
-        System.out.println("Fajar wahyu pratama");
+        System.out.println("Muhammad Abdul Malik");
     }
 }

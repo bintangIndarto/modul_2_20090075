@@ -19,6 +19,6 @@ public class nomer_1 {
             }
             System.out.println();
         }
-        System.out.println("Fajar wahyu pratama");
+        System.out.println("Muhammad Abdul Malik");
     }
 }
