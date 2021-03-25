@@ -30,6 +30,7 @@ public class nomer_3 {
                 System.out.println();
             }
         }
+        
         System.out.println("Muhammad Abdul Malik");
     }
 }

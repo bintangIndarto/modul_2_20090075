@@ -25,6 +25,7 @@ public class nomer_2 {
                 System.out.println();
             }
         }
+        
         System.out.println("Muhammad Abdul Malik");
     }
 }
