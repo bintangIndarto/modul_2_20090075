@@ -20,6 +20,6 @@ public class nomer_1 {
             System.out.println();
         }
         
-        System.out.println("Muhammad Abdul Malik");
+        System.out.println("bintang indarto");
     }
 }

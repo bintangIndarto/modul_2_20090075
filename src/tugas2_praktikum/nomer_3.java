@@ -31,6 +31,6 @@ public class nomer_3 {
             }
         }
         
-        System.out.println("Muhammad Abdul Malik");
+        System.out.println("bintang indarto");
     }
 }
